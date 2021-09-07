@@ -442,3 +442,5 @@ $RECYCLE.BIN/
 !.vscode/extensions.json
 
 *.db
+client/ssl/server.crt
+client/ssl/server.key
